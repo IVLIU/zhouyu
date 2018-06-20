@@ -7,4 +7,5 @@ function reduce(){
 function login(name){
     let name ='zhou'
     this.name = name
+    alert('stupi boss')
 }
