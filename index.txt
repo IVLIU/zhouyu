@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Creating a new branch is quick AND simple.
-=======
-create a doctype to study git
->>>>>>> feature
+create a
